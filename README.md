@@ -11,3 +11,5 @@
 - [LinkedIn](https://www.linkedin.com/in/fenil-jain-b3711117b/)
 
 ![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=feniljain)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feniljain)](https://github.com/feniljain/github-readme-stats)
