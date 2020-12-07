@@ -8,6 +8,7 @@
 ![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=feniljain)
 
 ### Tools & Technologies
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white)
