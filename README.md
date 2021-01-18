@@ -1,8 +1,8 @@
 ### Hi I'm Fenil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on projects related to Vim plugins and Golang
+- 🔭 I’m currently working on projects related to Vim plugins, Golang and Rust
 - 🌱 I’m currently learning Rust and DevOps
-- 👯 I’m looking to collaborate on DevOps projects and vim plugins
+- 👯 I’m looking to collaborate on DevOps, Rust projects and vim plugins
 - 😄 Pronouns: he/him
 
 ![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=feniljain&theme=great-gatsby&show_icons=true)
