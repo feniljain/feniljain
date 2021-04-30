@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=codio&logoColor=white)
+![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=41cd52)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react.js&logoColor=white&color=41cd52)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=41cd52)
