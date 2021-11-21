@@ -27,9 +27,11 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2493ed)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2493ed)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feniljain&theme=great-gatsby&show_icons=true)](https://github.com/feniljain/github-readme-stats)
-
 ### Get in touch
 
 - [Twitter](https://twitter.com/FenilJain7)
 - [LinkedIn](https://www.linkedin.com/in/fenil-jain-b3711117b/)
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feniljain&theme=great-gatsby&show_icons=true)](https://github.com/feniljain/github-readme-stats)
+---!>
