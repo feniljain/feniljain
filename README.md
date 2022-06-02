@@ -1,4 +1,4 @@
-### Hi I'm Fenil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi I'm Fenil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 - 🔭 I’m currently working on projects related to Vim plugins, Golang and Rust
 - 🌱 I’m currently learning Rust and DevOps
