@@ -1,7 +1,7 @@
 ### Hi I'm Fenil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I’m currently working on projects related to Compilers, Golang and Rust
-- 🌱 I’m currently learning Rust and Compilers
+- 🔭 I’m currently working on projects related to Compilers, Golang, Rust and Elixir
+- 🌱 I’m currently learning Rust, Compilers and Elixir
 - 👯 I’m looking to collaborate on Compilers, Programming Languages and Rust related projects
 - 😄 Pronouns: he/him
 
