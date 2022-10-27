@@ -29,8 +29,8 @@
 
 ### Get in touch
 
-- [Twitter](https://twitter.com/FenilJain7)
-- [LinkedIn](https://www.linkedin.com/in/fenil-jain-b3711117b/)
+- [Twitter](https://twitter.com/fenil_jain_)
+- [LinkedIn](https://www.linkedin.com/in/fenil-k-jain/)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feniljain&theme=great-gatsby&show_icons=true)](https://github.com/feniljain/github-readme-stats)
