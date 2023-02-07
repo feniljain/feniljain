@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Compilers, Programming Languages and Rust related projects
 - 😄 Pronouns: he/him
 
-![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=feniljain&theme=great-gatsby&show_icons=true)
+<!-- ![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=feniljain&theme=great-gatsby&show_icons=true) -->
 
 ### Tools & Technologies
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white)
